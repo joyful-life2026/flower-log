@@ -213,8 +213,8 @@ const Gallery = () => {
   const images = [
     { src: 'https://images.unsplash.com/photo-1580547262433-a81fcc58b082?w=1200&auto=format&fit=crop&q=80', alt: 'Yellow', size: 'square' },
     { src: 'https://images.unsplash.com/photo-1620012252641-c66abc865496?w=1200&auto=format&fit=crop&q=80', alt: 'Tulips', size: 'tall' },
-    { src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDxR3wnOC29zlpRG11E_MEMLW9v_YOQnW_UUcODRN-PgA-wxvNM91Iw3TYm7M06tg8FIYjOyhjtdVGeb2m1kI55ux1-FQ3tfnXyYZTpEm6ifRuE3nq8M08e0dxVA27gyAC91VTJwZURmhWtwhPcnDZI5GHTwnRbXRbkKy-DDzUgvo5pE_YPoQN4cLqxjZLGTpTReOu65ihIKVJzg2JS9a0VVjvc-dvtU5XrDeEO6aNaBms2cZbTIyg3NzGAh4jtm3hTS4CubwZsP4xR', alt: 'White Roses', size: 'square' },
-    { src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBjgfGEInnLKLx6naHypl3CGwqQeHE8B7BOVUvwUYZwF9do9H2PoHboBZkqkE6x-u7nS4NGf7hI_lQ1iL_IwJNzChdJn8_vFU2yC_lW_DFZKo82uijbjYOJZ86AaKLC4k0f389Yi0tYRZZAj0w4BsY5VfDctZSXyFiVEJXyLIT0swGxPt4j73YKGzA-sJy1Yxhvr6WaJ4c34fhHmeHArLCIoNRJDyCAuy_yj_oV4ryiMby4uCe4G5XmFman6Gi9uuo4NaOVKWzIy4Wt', alt: 'Hydrangea', size: 'square' },
+    { src: 'https://images.unsplash.com/photo-1747555727200-c5333d7a9446?w=1200&auto=format&fit=crop&q=80', alt: 'White Roses', size: 'square' },
+    { src: 'https://images.unsplash.com/photo-1657568929885-0f858cd7fb69?w=1200&auto=format&fit=crop&q=80', alt: 'Hydrangea', size: 'square' },
     { src: 'https://images.unsplash.com/photo-1571226596652-17a84cc563d5?w=1200&auto=format&fit=crop&q=80', alt: 'Pink flowers', size: 'square' },
   ];
 
