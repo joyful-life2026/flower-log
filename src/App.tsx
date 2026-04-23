@@ -108,7 +108,7 @@ const Hero = () => (
         alt="Sun-drenched floral atelier"
         className="w-full h-full object-cover"
       />
-      <div className="absolute inset-0 bg-stone-900/10 mix-blend-multiply transition-all" />
+      <div className="absolute inset-0 bg-stone-900/30 mix-blend-multiply transition-all" />
     </div>
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -116,7 +116,7 @@ const Hero = () => (
       transition={{ duration: 1, delay: 0.2 }}
       className="relative z-10 text-center px-4 max-w-4xl mt-32"
     >
-      <h1 className="serif-title text-3xl md:text-6xl text-white drop-shadow-xl leading-snug mb-8">
+      <h1 className="serif-title text-3xl md:text-6xl text-white drop-shadow-2xl leading-snug mb-8">
         꽃으로 기록하는 당신의 순간,<br />
         <span className="italic font-light">플라워로그</span>
       </h1>
