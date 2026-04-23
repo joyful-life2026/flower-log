@@ -331,7 +331,7 @@ const Contact = () => (
           Pre-order Now <Calendar className="w-6 h-6" />
         </button>
         <button className="w-full sm:w-auto px-12 py-5 bg-secondary-container text-secondary rounded-full font-bold text-xl hover:opacity-90 transition-all flex items-center justify-center gap-3 shadow-md">
-          Inquire via KakaoTalk <MessageCircle className="w-6 h-6" />
+          KakaoTalk <MessageCircle className="w-6 h-6" />
         </button>
       </div>
     </div>
